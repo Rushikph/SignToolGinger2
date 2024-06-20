@@ -1,0 +1,7 @@
+name: '@Rushikph/SignToolGinger2'
+description: This action Sign files using windows signtool.exe
+runs:
+  steps:
+      - name: 'Create file from secret'
+        shell: pwsh
+        
