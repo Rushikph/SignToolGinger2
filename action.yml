@@ -4,4 +4,3 @@ runs:
   steps:
       - name: 'Create file from secret'
         shell: pwsh
-        
